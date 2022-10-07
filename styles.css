@@ -12,7 +12,7 @@ body{
     display: flex;
     flex-direction: row;
     padding: 3rem;
-    overflow-x: scroll;
+    overflow-x: auto;
 }
 
 .card-list::-webkit-scrollbar{
